@@ -20,8 +20,9 @@ A simple Python script to generate a Merkle Tree from a list of transactions and
 - Builds a binary Merkle Tree
 - Handles odd number of transactions by duplicating the last hash
 - Outputs the Merkle Root
-
-[Inclusion_Proof] = (Inclusion_Proof.md)
+  
+## Table of Contents
+[Inclusion_Proof](Inclusion_Proof.md) 
 
 ## 🚀 Getting Started
 
